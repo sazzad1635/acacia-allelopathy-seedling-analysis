@@ -47,7 +47,7 @@ Biochemical Traits: chlorophyll, carotenoid, proline, MDA, H₂O₂
 
 Clone the repository:
 
-git clone https://github.com/sazzad1635/allelopathy-seedling-analysis.git
+git clone https://github.com/your-username/allelopathy-seedling-analysis.git
 cd allelopathy-seedling-analysis
 
 
